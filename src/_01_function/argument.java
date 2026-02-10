@@ -1,4 +1,4 @@
-package alfunction;
+package _01_function;
 
 public class argument {
     public static void main(String[] args) {

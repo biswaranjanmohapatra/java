@@ -1,6 +1,4 @@
-package alfunction;
-
-import java.util.Scanner;
+package _01_function;
 
 public class Swapnum {
     public static void main(String[] args) {
